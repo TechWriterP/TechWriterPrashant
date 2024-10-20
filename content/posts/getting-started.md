@@ -1,8 +1,8 @@
 +++
-title = 'My Second Post'
+title = 'Getting started'
 date = 2024-10-20T22:36:07+05:30
 draft = false
 +++
-# Second post
+# Getting started
 
-Lorem ipsum
+This topic contains getting started content!
